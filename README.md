@@ -1,6 +1,6 @@
 # Github_Repositories
 Searching github repositories
-Technology used:
- .Retrofit  to pull data from github
-  .Hilt  For dependency Injection
+Technology used:\n
+ .Retrofit  to pull data from github \n
+  .Hilt  For dependency Injection \n
   .JetPack Compose for Ui design
